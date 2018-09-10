@@ -1,6 +1,6 @@
 {
   "name": "emoji-str-position",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "emoji in str position",
   "license": "MIT",
   "main": "dist/emoji-str-position.js",
