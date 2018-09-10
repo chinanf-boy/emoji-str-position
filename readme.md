@@ -15,7 +15,7 @@ yarn add emoji-str-position
 ## Usage
 
 ```js
-const emojiStrPos = require('emoji-str-position');
+const m = require('emoji-str-position');
 
 const text = `
 \u{231A}: ⌚ default emoji presentation character (Emoji_Presentation)
@@ -31,8 +31,6 @@ const data = m(text);
 <details>
 
 <summary> <b>data</b> details </summary>
-
-### data
 
 #### data.emojiIdx
 
